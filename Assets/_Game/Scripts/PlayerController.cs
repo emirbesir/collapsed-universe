@@ -15,15 +15,20 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
-        // Get normalized input from the player
-        _movementInput = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical")).normalized;
+        _movementInput = GetNormalizedMoveInput();
     }
 
     private void FixedUpdate()
     {
         Move();
     }
-
+    
+    // Get normalized input from the player
+    private Vector2 GetNormalizedMoveInput()
+    {
+        return new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical")).normalized;
+    }
+    
     // Move the player based on input
     private void Move()
     {
