@@ -186,6 +186,7 @@ public class PlayerController : MonoBehaviour
             return;
 
         // Jump away from the wall
+        _animator.SetTrigger("WallJump");
         _rb.linearVelocity = new Vector2(-wallDirection * _wallJumpForceX, _wallJumpForceY);
 
         // Set wall jumping state
