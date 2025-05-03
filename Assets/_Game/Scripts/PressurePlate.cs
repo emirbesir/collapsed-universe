@@ -4,8 +4,11 @@ using UnityEngine;
 
 public class PressurePlate : MonoBehaviour
 {
+    [Header("Pressure Plate Settings")]
     [SerializeField] private GameObject objectToActivate;
     [SerializeField] private bool isActive = false;
+
+    [Header("Visual Settings")]
     [SerializeField] private SpriteRenderer pressurePlateRend;
 
     private Color activeColor = Color.green;
@@ -13,6 +16,7 @@ public class PressurePlate : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
+        // If pressure plate is not active and triggered, activate the object
         if (!isActive)
         {
             ActivateObject();
@@ -21,12 +25,14 @@ public class PressurePlate : MonoBehaviour
 
     private void OnTriggerExit2D(Collider2D collision)
     {
+        // If pressure plate is active and exited, deactivate the object
         if (isActive)
         {
             DeactivateObject();
         }
     }
 
+    // Activate the object and change the color of the pressure plate
     private void ActivateObject()
     {
         if (objectToActivate != null)
@@ -37,6 +43,7 @@ public class PressurePlate : MonoBehaviour
         }
     }
 
+    // Deactivate the object and change the color of the pressure plate
     private void DeactivateObject()
     {
         if (objectToActivate != null)
@@ -46,5 +53,4 @@ public class PressurePlate : MonoBehaviour
             objectToActivate.SetActive(false);
         }
     }
-
 }
