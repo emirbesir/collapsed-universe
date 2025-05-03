@@ -12,6 +12,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private Transform _groundCheck;
     [SerializeField] private LayerMask _groundLayer;
     private float _groundCheckRadius = 0.1f;
+    private bool _wasInAir = false;
 
     [Header("Wall Jump Settings")]
     [SerializeField] private float _wallJumpForceX = 4f;
@@ -59,7 +60,7 @@ public class PlayerController : MonoBehaviour
         _movementInputX = Input.GetAxisRaw("Horizontal");
         
         // Set animator parameters and renderer
-        _animator.SetBool("isWalking", _movementInputX != 0);
+        _animator.SetBool("IsWalking", _movementInputX != 0);
         if (_movementInputX >= 0)
         {
             _spriteRenderer.flipX = false;
@@ -68,6 +69,21 @@ public class PlayerController : MonoBehaviour
         {
             _spriteRenderer.flipX = true;
         }
+        // Check ground state for animation transitions
+        bool isGrounded = IsGrounded();
+
+        // If player just landed after being in air
+        if (isGrounded && _wasInAir)
+        {
+            _animator.ResetTrigger("Jump");
+            _wasInAir = false;
+        }
+
+        // If player is in air but wasInAir is not set yet
+        if (!isGrounded && !_wasInAir)
+        {
+            _wasInAir = true;
+        }
 
         // Handle jumping
         if (Input.GetButtonDown("Jump"))
@@ -75,10 +91,12 @@ public class PlayerController : MonoBehaviour
             if (IsGrounded())
             {
                 NormalJump();
+                _wasInAir = true;
             }
             else if (CanWallJump())
             {
                 WallJump();
+                _wasInAir = true;
             }
         }
 
@@ -171,6 +189,7 @@ public class PlayerController : MonoBehaviour
     // Normal jump from the ground
     private void NormalJump()
     {
+        _animator.SetTrigger("Jump");
         _rb.linearVelocity = new Vector2(_rb.linearVelocity.x, _jumpForce);
     }
 
@@ -185,6 +204,7 @@ public class PlayerController : MonoBehaviour
             return;
 
         // Jump away from the wall
+        _animator.SetTrigger("WallJump");
         _rb.linearVelocity = new Vector2(-wallDirection * _wallJumpForceX, _wallJumpForceY);
 
         // Set wall jumping state
