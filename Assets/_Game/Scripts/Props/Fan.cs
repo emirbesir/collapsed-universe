@@ -6,7 +6,7 @@ public class Fan : MonoBehaviour
     
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        Rigidbody2D rb = collision.gameObject.GetComponent<Rigidbody2D>();
+        Rigidbody2D rb = collision.GetComponent<Rigidbody2D>();
         if (rb != null)
         {
             rb.AddForce(Vector2.up * _force, ForceMode2D.Impulse);
