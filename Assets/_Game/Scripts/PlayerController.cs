@@ -11,6 +11,9 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float _jumpForce = 5f;
     [SerializeField] private Transform _groundCheck;
     [SerializeField] private LayerMask _groundLayer;
+    [SerializeField] private Transform[] _wallCheck;
+    private float _groundCheckRadius = 0.1f;
+    private float _wallCheckRadius = 0.15f;
 
     private Rigidbody2D _rb;
     private float _movementInputX;
@@ -31,9 +34,12 @@ public class PlayerController : MonoBehaviour
 
         _movementInputX = Input.GetAxisRaw("Horizontal");
 
-        if (Input.GetButtonDown("Jump") && IsGrounded())
+        if (Input.GetButtonDown("Jump"))
         {
-            Jump();
+            if (IsGrounded() || IsTouchingWall())
+            {
+                Jump();
+            }
         }
     }
 
@@ -41,7 +47,7 @@ public class PlayerController : MonoBehaviour
     {
         Move();
     }
-    
+
     // Move the player based on input
     private void Move()
     {
@@ -59,12 +65,25 @@ public class PlayerController : MonoBehaviour
     // Jump the player
     private void Jump()
     {
-        _rb.linearVelocity = new Vector2(_rb.linearVelocity.x, _jumpForce); 
+        _rb.linearVelocity = new Vector2(_rb.linearVelocity.x, _jumpForce);
     }
 
     // Check if the player is grounded
     private bool IsGrounded()
     {
-        return Physics2D.OverlapCircle(_groundCheck.position, 0.1f, _groundLayer) != null;
+        return Physics2D.OverlapCircle(_groundCheck.position, _groundCheckRadius, _groundLayer) != null;
+    }
+
+    private bool IsTouchingWall()
+    {
+        foreach (var wallCheck in _wallCheck)
+        {
+            if (Physics2D.OverlapCircle(wallCheck.position, _wallCheckRadius, _groundLayer) != null)
+            {
+                return true;
+            }
+        }
+        return false;
     }
 }
+

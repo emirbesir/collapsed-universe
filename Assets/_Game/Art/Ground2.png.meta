@@ -1,19 +1,10 @@
 fileFormatVersion: 2
-guid: 22a871b54469544468d1f5748903d238
+guid: 2ac3e147888435b419a98e8b61b5762d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8910899737472627771
-    second: Attack_3_0
-  - first:
-      213: -5464336490339650859
-    second: Attack_3_1
-  - first:
-      213: -1132038362817505424
-    second: Attack_3_2
-  - first:
-      213: -6574224857763752514
-    second: Attack_3_3
+      213: -5473912143610790163
+    second: Ground2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -60,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 64
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -109,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Attack_3_0
+      name: Ground2_0
       rect:
         serializedVersion: 2
-        x: 102
-        y: 0
-        width: 44
-        height: 103
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,74 +115,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5cb82d696ef165480800000000000000
-      internalID: -8910899737472627771
+      spriteID: deeb16c48e1c804b0800000000000000
+      internalID: -5473912143610790163
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_3_1
+      name: Ground2_1
       rect:
         serializedVersion: 2
-        x: 357
-        y: 0
-        width: 59
-        height: 103
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5d2b910d9e6ca24b0800000000000000
-      internalID: -5464336490339650859
+      spriteID: 75a0fe2bf2d26d546b5183cee79276e2
+      internalID: -944599516
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_3_2
+      name: Ground2_2
       rect:
         serializedVersion: 2
-        x: 613
+        x: 0
         y: 0
-        width: 44
-        height: 113
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 077d5285b113a40f0800000000000000
-      internalID: -1132038362817505424
+      spriteID: aac9bfe3b5af277449a79a9b0eccb3f2
+      internalID: -1722550371
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack_3_3
+      name: Ground2_3
       rect:
         serializedVersion: 2
-        x: 869
+        x: 32
         y: 0
-        width: 42
-        height: 117
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: eb5d277d259a3c4a0800000000000000
-      internalID: -6574224857763752514
+      spriteID: 2c866c9ba4c54924a89a67fa8760f251
+      internalID: 698437226
       vertices: []
       indices: 
       edges: []
@@ -200,7 +191,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 1ea76510416115a4a9ff7bdc2400d9c2
     internalID: 0
     vertices: []
     indices: 
@@ -210,10 +201,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Attack_3_0: -8910899737472627771
-      Attack_3_1: -5464336490339650859
-      Attack_3_2: -1132038362817505424
-      Attack_3_3: -6574224857763752514
+      Ground2_0: -5473912143610790163
+      Ground2_1: -944599516
+      Ground2_2: -1722550371
+      Ground2_3: 698437226
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
