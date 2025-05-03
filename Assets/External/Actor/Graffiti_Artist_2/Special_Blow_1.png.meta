@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: f4be417e8c2ffc34a80aea0e53677d92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2909864301950268494
+    second: Special_Blow_1_0
+  - first:
+      213: -2076397742358489564
+    second: Special_Blow_1_1
+  - first:
+      213: 6484636785650552713
+    second: Special_Blow_1_2
+  - first:
+      213: -1930253144573714757
+    second: Special_Blow_1_3
+  - first:
+      213: 2941553072119636515
+    second: Special_Blow_1_4
+  - first:
+      213: -7625031979701071678
+    second: Special_Blow_1_5
+  - first:
+      213: -8362004861748248957
+    second: Special_Blow_1_6
+  - first:
+      213: 2797869900215647898
+    second: Special_Blow_1_7
+  - first:
+      213: 4172017462830163297
+    second: Special_Blow_1_8
+  - first:
+      213: -5481210499309659855
+    second: Special_Blow_1_9
+  - first:
+      213: 6773422718546051311
+    second: Special_Blow_1_10
+  - first:
+      213: 4651379022290138223
+    second: Special_Blow_1_11
+  - first:
+      213: 3171650113654245665
+    second: Special_Blow_1_12
+  - first:
+      213: -3142407007006983996
+    second: Special_Blow_1_13
+  - first:
+      213: 922004255171069426
+    second: Special_Blow_1_14
+  - first:
+      213: -4786634055261454900
+    second: Special_Blow_1_15
+  - first:
+      213: 94128045445688404
+    second: Special_Blow_1_16
+  - first:
+      213: 4931511148151858138
+    second: Special_Blow_1_17
+  - first:
+      213: -3014696862679572702
+    second: Special_Blow_1_18
+  - first:
+      213: 6246487691615624226
+    second: Special_Blow_1_19
+  - first:
+      213: 4045919213175390312
+    second: Special_Blow_1_20
+  - first:
+      213: 1390254270415605439
+    second: Special_Blow_1_21
+  - first:
+      213: -160952878389001401
+    second: Special_Blow_1_22
+  - first:
+      213: -7549199593412153756
+    second: Special_Blow_1_23
+  - first:
+      213: 487448104739347562
+    second: Special_Blow_1_24
+  - first:
+      213: -471309704973167221
+    second: Special_Blow_1_25
+  - first:
+      213: -8594273336901735828
+    second: Special_Blow_1_26
+  - first:
+      213: -8832269864220959101
+    second: Special_Blow_1_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Special_Blow_1_0
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 45
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44f55e5a2ae16820800000000000000
+      internalID: 2909864301950268494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Blow_1_1
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 0
+        width: 44
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4269c4a21472f23e0800000000000000
+      internalID: -2076397742358489564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Blow_1_2
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 0
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fc12aacce0ef950800000000000000
+      internalID: 6484636785650552713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Blow_1_3
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 0
+        width: 66
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe5a1fedfc5635e0800000000000000
+      internalID: -1930253144573714757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Blow_1_4
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 72
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32266af1fee72d820800000000000000
+      internalID: 2941553072119636515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Blow_1_5
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 0
+        width: 66
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c09ce840d17e2690800000000000000
+      internalID: -7625031979701071678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Blow_1_6
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 69
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ef76dc1e034fb80800000000000000
+      internalID: -8362004861748248957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Blow_1_7
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 0
+        width: 66
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e7c1ab9d704d620800000000000000
+      internalID: 2797869900215647898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Blow_1_8
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 69
+        width: 56
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165e7b437cbf5e930800000000000000
+      internalID: 4172017462830163297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Blow_1_9
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 0
+        width: 66
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13991817714dee3b0800000000000000
+      internalID: -5481210499309659855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Blow_1_10
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 68
+        width: 63
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe08f7c4318000e50800000000000000
+      internalID: 6773422718546051311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Blow_1_11
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 0
+        width: 66
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64be43a3940d8040800000000000000
+      internalID: 4651379022290138223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Blow_1_12
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 78
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129403869f6f30c20800000000000000
+      internalID: 3171650113654245665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Blow_1_13
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 81
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c876afe97de364d0800000000000000
+      internalID: -3142407007006983996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Blow_1_14
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 66
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5cede2cfd9bcc00800000000000000
+      internalID: 922004255171069426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Blow_1_15
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 0
+        width: 66
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd7a5affa5729db0800000000000000
+      internalID: -4786634055261454900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Blow_1_16
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 74
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c213865f86e4100800000000000000
+      internalID: 94128045445688404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Blow_1_17
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 79
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3687fc24f307440800000000000000
+      internalID: 4931511148151858138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Blow_1_18
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 70
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fdf7a0d25a926d0800000000000000
+      internalID: -3014696862679572702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Blow_1_19
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 0
+        width: 66
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c5990d57bffa650800000000000000
+      internalID: 6246487691615624226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Blow_1_20
+      rect:
+        serializedVersion: 2
+        x: 2489
+        y: 76
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8604f33961ef52830800000000000000
+      internalID: 4045919213175390312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Blow_1_21
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 70
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe879f94ec2b4310800000000000000
+      internalID: 1390254270415605439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Blow_1_22
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 70
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7430c0ab53e24cdf0800000000000000
+      internalID: -160952878389001401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Blow_1_23
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 73
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e252897fadb3790800000000000000
+      internalID: -7549199593412153756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Blow_1_24
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 69
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c1d69f773c3c600800000000000000
+      internalID: 487448104739347562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Blow_1_25
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 69
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8551e702529579f0800000000000000
+      internalID: -471309704973167221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Blow_1_26
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 65
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a6c5b3fe10bb880800000000000000
+      internalID: -8594273336901735828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Blow_1_27
+      rect:
+        serializedVersion: 2
+        x: 2513
+        y: 68
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ed8b69a597d6580800000000000000
+      internalID: -8832269864220959101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Special_Blow_1_0: 2909864301950268494
+      Special_Blow_1_1: -2076397742358489564
+      Special_Blow_1_10: 6773422718546051311
+      Special_Blow_1_11: 4651379022290138223
+      Special_Blow_1_12: 3171650113654245665
+      Special_Blow_1_13: -3142407007006983996
+      Special_Blow_1_14: 922004255171069426
+      Special_Blow_1_15: -4786634055261454900
+      Special_Blow_1_16: 94128045445688404
+      Special_Blow_1_17: 4931511148151858138
+      Special_Blow_1_18: -3014696862679572702
+      Special_Blow_1_19: 6246487691615624226
+      Special_Blow_1_2: 6484636785650552713
+      Special_Blow_1_20: 4045919213175390312
+      Special_Blow_1_21: 1390254270415605439
+      Special_Blow_1_22: -160952878389001401
+      Special_Blow_1_23: -7549199593412153756
+      Special_Blow_1_24: 487448104739347562
+      Special_Blow_1_25: -471309704973167221
+      Special_Blow_1_26: -8594273336901735828
+      Special_Blow_1_27: -8832269864220959101
+      Special_Blow_1_3: -1930253144573714757
+      Special_Blow_1_4: 2941553072119636515
+      Special_Blow_1_5: -7625031979701071678
+      Special_Blow_1_6: -8362004861748248957
+      Special_Blow_1_7: 2797869900215647898
+      Special_Blow_1_8: 4172017462830163297
+      Special_Blow_1_9: -5481210499309659855
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
