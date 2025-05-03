@@ -22,6 +22,13 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
+        // Disable input if the game is paused
+        if (GameManager.Instance.IsPaused)
+        {
+            _movementInputX = 0f; // Stop movement
+            return;
+        }
+
         _movementInputX = Input.GetAxisRaw("Horizontal");
 
         if (Input.GetButtonDown("Jump") && IsGrounded())
