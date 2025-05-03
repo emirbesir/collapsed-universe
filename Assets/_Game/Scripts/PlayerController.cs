@@ -59,7 +59,7 @@ public class PlayerController : MonoBehaviour
         _movementInputX = Input.GetAxisRaw("Horizontal");
         
         // Set animator parameters and renderer
-        _animator.SetBool("isWalking", _movementInputX != 0);
+        _animator.SetBool("IsWalking", _movementInputX != 0);
         if (_movementInputX >= 0)
         {
             _spriteRenderer.flipX = false;
@@ -171,6 +171,7 @@ public class PlayerController : MonoBehaviour
     // Normal jump from the ground
     private void NormalJump()
     {
+        _animator.SetTrigger("Jump");
         _rb.linearVelocity = new Vector2(_rb.linearVelocity.x, _jumpForce);
     }
 
