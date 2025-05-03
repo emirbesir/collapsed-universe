@@ -26,12 +26,18 @@ public class PlayerController : MonoBehaviour
     private float _wallJumpingDirection;
     private int _lastWallDirection = 0; // 0 = none, -1 = left, 1 = right
 
+    [Header("Player Visual Reference")]
+    [SerializeField] private GameObject _playerModel;
+    private Animator _animator;
+    private SpriteRenderer _spriteRenderer;
     private Rigidbody2D _rb;
     private float _movementInputX;
 
     private void Awake()
     {
         _rb = GetComponent<Rigidbody2D>();
+        _animator = _playerModel.GetComponent<Animator>();
+        _spriteRenderer = _playerModel.GetComponent<SpriteRenderer>();
     }
 
     void Update()
@@ -51,6 +57,17 @@ public class PlayerController : MonoBehaviour
         }
 
         _movementInputX = Input.GetAxisRaw("Horizontal");
+        
+        // Set animator parameters and renderer
+        _animator.SetBool("isWalking", _movementInputX != 0);
+        if (_movementInputX >= 0)
+        {
+            _spriteRenderer.flipX = false;
+        }
+        else
+        {
+            _spriteRenderer.flipX = true;
+        }
 
         // Handle jumping
         if (Input.GetButtonDown("Jump"))
@@ -139,6 +156,7 @@ public class PlayerController : MonoBehaviour
     // Move the player based on input
     private void Move()
     {
+
         float speed = _moveSpeed;
 
         // Check if the player is sprinting
