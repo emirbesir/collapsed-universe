@@ -798,6 +798,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _moveSpeed: 5
+  _sprintMultiplier: 1.5
   _jumpForce: 5
   _groundCheck: {fileID: 546461496}
   _groundLayer:

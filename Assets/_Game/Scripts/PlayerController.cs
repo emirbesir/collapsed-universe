@@ -5,9 +5,10 @@ public class PlayerController : MonoBehaviour
 {
     [Header("Player Movement Settings")]
     [SerializeField] private float _moveSpeed = 5f;
-    [SerializeField] private float _jumpForce = 5f;
+    [SerializeField] private float _sprintMultiplier = 1.25f;
 
-    [Header("Ground Check Settings")]
+    [Header("Jump / Ground Check Settings")]
+    [SerializeField] private float _jumpForce = 5f;
     [SerializeField] private Transform _groundCheck;
     [SerializeField] private LayerMask _groundLayer;
 
@@ -37,7 +38,15 @@ public class PlayerController : MonoBehaviour
     // Move the player based on input
     private void Move()
     {
-        _rb.linearVelocity = new Vector2(_movementInputX * _moveSpeed, _rb.linearVelocity.y);
+        float speed = _moveSpeed;
+
+        // Check if the player is sprinting
+        if (Input.GetKey(KeyCode.LeftShift))
+        {
+            speed *= _sprintMultiplier;
+        }
+
+        _rb.linearVelocity = new Vector2(_movementInputX * speed, _rb.linearVelocity.y);
     }
 
     // Jump the player
