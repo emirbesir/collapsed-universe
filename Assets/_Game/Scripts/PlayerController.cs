@@ -12,6 +12,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private Transform _groundCheck;
     [SerializeField] private LayerMask _groundLayer;
     private float _groundCheckRadius = 0.1f;
+    private bool _wasInAir = false;
 
     [Header("Wall Jump Settings")]
     [SerializeField] private float _wallJumpForceX = 4f;
@@ -68,6 +69,21 @@ public class PlayerController : MonoBehaviour
         {
             _spriteRenderer.flipX = true;
         }
+        // Check ground state for animation transitions
+        bool isGrounded = IsGrounded();
+
+        // If player just landed after being in air
+        if (isGrounded && _wasInAir)
+        {
+            _animator.ResetTrigger("Jump");
+            _wasInAir = false;
+        }
+
+        // If player is in air but wasInAir is not set yet
+        if (!isGrounded && !_wasInAir)
+        {
+            _wasInAir = true;
+        }
 
         // Handle jumping
         if (Input.GetButtonDown("Jump"))
@@ -75,10 +91,12 @@ public class PlayerController : MonoBehaviour
             if (IsGrounded())
             {
                 NormalJump();
+                _wasInAir = true;
             }
             else if (CanWallJump())
             {
                 WallJump();
+                _wasInAir = true;
             }
         }
 
