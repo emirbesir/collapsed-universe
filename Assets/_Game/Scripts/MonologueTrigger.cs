@@ -2,15 +2,20 @@ using UnityEngine;
 
 public class MonologueTrigger : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
+    [SerializeField] private string monologueText;
+    [SerializeField] private bool playOnce = true;
 
-    // Update is called once per frame
-    void Update()
+    private bool hasPlayed = false;
+
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        
+        if (collision.CompareTag("Player"))
+        {
+            if (playOnce && hasPlayed)
+                return;
+
+            MonologueManager.Instance.ShowMonologue(monologueText);
+            hasPlayed = true;
+        }
     }
 }

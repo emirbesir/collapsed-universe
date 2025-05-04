@@ -6,10 +6,26 @@ public class MonologueManager : MonoBehaviour
 {
     [SerializeField] private GameObject monologuePanel;
     [SerializeField] private TextMeshProUGUI monologueText;
-    [SerializeField] private float displayTime = 3f;
+    [SerializeField] private float displayTime = 5f;
     [SerializeField] private float fadeTime = 1f;
 
     private bool isDisplaying = false;
+    
+    // Singleton instance
+    public static MonologueManager Instance { get; private set; }
+
+    private void Awake()
+    {
+        if (Instance == null)
+        {
+            Instance = this;
+            DontDestroyOnLoad(gameObject);
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
+    }
 
     private void Start()
     {
@@ -33,11 +49,26 @@ public class MonologueManager : MonoBehaviour
         monologuePanel.SetActive(true);
         monologueText.text = text;
 
+        CanvasGroup canvasGroup = monologuePanel.GetComponent<CanvasGroup>();
+        canvasGroup.alpha = 0f;
+        
+        if (canvasGroup != null)
+        {
+            // Fade in effect
+            float elapsedTime = 0f;
+            while (elapsedTime < fadeTime)
+            {
+                canvasGroup.alpha = Mathf.Lerp(0f, 1f, elapsedTime / fadeTime);
+                elapsedTime += Time.deltaTime;
+                yield return null;
+            }
+            canvasGroup.alpha = 1f;
+        }
+
         // Wait for display time
         yield return new WaitForSeconds(displayTime);
 
-        // Optional: Fade out effect
-        CanvasGroup canvasGroup = monologuePanel.GetComponent<CanvasGroup>();
+        // Fade out effect
         if (canvasGroup != null)
         {
             float elapsedTime = 0f;
