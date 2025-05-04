@@ -119,12 +119,12 @@ TextureImporter:
       name: houses1_0
       rect:
         serializedVersion: 2
-        x: 171
+        x: 172
         y: 0
-        width: 494
-        height: 517
+        width: 492
+        height: 516
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -141,12 +141,12 @@ TextureImporter:
       name: houses1_1
       rect:
         serializedVersion: 2
-        x: 1027
+        x: 1028
         y: 0
-        width: 706
-        height: 417
+        width: 704
+        height: 416
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []

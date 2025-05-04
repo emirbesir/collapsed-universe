@@ -122,81 +122,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: houses2_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 137
-        height: 701
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 035efe0db641e4160800000000000000
-      internalID: 7011564123161879856
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: houses2_1
-      rect:
-        serializedVersion: 2
-        x: 227
-        y: 0
-        width: 618
-        height: 997
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f1948717e1c94afb0800000000000000
-      internalID: -4637410061718107873
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: houses2_2
-      rect:
-        serializedVersion: 2
-        x: 1067
-        y: 0
-        width: 430
-        height: 785
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b5d01132907606010800000000000000
-      internalID: 1180056391311756635
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: houses2_3
       rect:
         serializedVersion: 2
-        x: 1547
+        x: 1
         y: 0
-        width: 373
-        height: 893
+        width: 1914
+        height: 996
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
