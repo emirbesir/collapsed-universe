@@ -124,7 +124,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 541a9d62724b58c488f0aecc8c507adb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _moveSpeed: 5
+  _moveSpeed: 4
   _sprintMultiplier: 1.5
   _jumpForce: 5
   _groundCheck: {fileID: 6287832783003674996}
@@ -134,7 +134,7 @@ MonoBehaviour:
   _wallJumpForceX: 4
   _wallJumpForceY: 6
   _wallJumpCooldown: 0.5
-  _wallSlidingSpeed: 1.5
+  _wallSlidingSpeed: 2.5
   _wallCheck:
   - {fileID: 7411664074457212499}
   - {fileID: 5469200995600846597}

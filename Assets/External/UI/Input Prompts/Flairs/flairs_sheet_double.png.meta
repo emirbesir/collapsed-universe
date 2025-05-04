@@ -1,0 +1,2992 @@
+fileFormatVersion: 2
+guid: 91ec9c4659dca0c48808dd7eebdeecac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4461504931996979062
+    second: flairs_sheet_double_0
+  - first:
+      213: -1817307896033028706
+    second: flairs_sheet_double_1
+  - first:
+      213: -3768948027146812031
+    second: flairs_sheet_double_2
+  - first:
+      213: -2985015747438291933
+    second: flairs_sheet_double_3
+  - first:
+      213: 2190123619129759373
+    second: flairs_sheet_double_4
+  - first:
+      213: -1046741921455111044
+    second: flairs_sheet_double_5
+  - first:
+      213: 4719171192753082102
+    second: flairs_sheet_double_6
+  - first:
+      213: 6850853790539844044
+    second: flairs_sheet_double_7
+  - first:
+      213: 6945606502453911691
+    second: flairs_sheet_double_8
+  - first:
+      213: -5793772884657700033
+    second: flairs_sheet_double_9
+  - first:
+      213: -4522409559951239873
+    second: flairs_sheet_double_10
+  - first:
+      213: 5551113417149489998
+    second: flairs_sheet_double_11
+  - first:
+      213: 7998236975278889186
+    second: flairs_sheet_double_12
+  - first:
+      213: 3990331315004609207
+    second: flairs_sheet_double_13
+  - first:
+      213: 6758749397494849903
+    second: flairs_sheet_double_14
+  - first:
+      213: 2465512727615128906
+    second: flairs_sheet_double_15
+  - first:
+      213: -5756348155288905815
+    second: flairs_sheet_double_16
+  - first:
+      213: -4370430885868727577
+    second: flairs_sheet_double_17
+  - first:
+      213: 3277558881661171872
+    second: flairs_sheet_double_18
+  - first:
+      213: 5105894547922138748
+    second: flairs_sheet_double_19
+  - first:
+      213: -8423325065021864901
+    second: flairs_sheet_double_20
+  - first:
+      213: 3400442433676301876
+    second: flairs_sheet_double_21
+  - first:
+      213: 2190791943708431243
+    second: flairs_sheet_double_22
+  - first:
+      213: 7262023563300835036
+    second: flairs_sheet_double_23
+  - first:
+      213: 5173319585889484376
+    second: flairs_sheet_double_24
+  - first:
+      213: -2211798047564262107
+    second: flairs_sheet_double_25
+  - first:
+      213: -1768539162427848518
+    second: flairs_sheet_double_26
+  - first:
+      213: 9156986920161144660
+    second: flairs_sheet_double_27
+  - first:
+      213: 1984549576268653977
+    second: flairs_sheet_double_28
+  - first:
+      213: 5575567289912176548
+    second: flairs_sheet_double_29
+  - first:
+      213: 4668699740008458734
+    second: flairs_sheet_double_30
+  - first:
+      213: -4176822669864958686
+    second: flairs_sheet_double_31
+  - first:
+      213: 5632062075837860853
+    second: flairs_sheet_double_32
+  - first:
+      213: -5383354290690819643
+    second: flairs_sheet_double_33
+  - first:
+      213: 5419220666029699673
+    second: flairs_sheet_double_34
+  - first:
+      213: 2458682551710507854
+    second: flairs_sheet_double_35
+  - first:
+      213: -7621987511894324300
+    second: flairs_sheet_double_36
+  - first:
+      213: -8261620376252924845
+    second: flairs_sheet_double_37
+  - first:
+      213: 8156548251239876844
+    second: flairs_sheet_double_38
+  - first:
+      213: -2828560718663831403
+    second: flairs_sheet_double_39
+  - first:
+      213: -809475108166855002
+    second: flairs_sheet_double_40
+  - first:
+      213: -3149575665418397522
+    second: flairs_sheet_double_41
+  - first:
+      213: 8686080264004876125
+    second: flairs_sheet_double_42
+  - first:
+      213: 1573397463176003952
+    second: flairs_sheet_double_43
+  - first:
+      213: -1829395212468833660
+    second: flairs_sheet_double_44
+  - first:
+      213: -5769434691613930652
+    second: flairs_sheet_double_45
+  - first:
+      213: 8643641159101536547
+    second: flairs_sheet_double_46
+  - first:
+      213: -6645385452258311683
+    second: flairs_sheet_double_47
+  - first:
+      213: 7495453200534094228
+    second: flairs_sheet_double_48
+  - first:
+      213: 3074093094079126548
+    second: flairs_sheet_double_49
+  - first:
+      213: -1324206480967016091
+    second: flairs_sheet_double_50
+  - first:
+      213: -9083776295131644830
+    second: flairs_sheet_double_51
+  - first:
+      213: 5242929406000356086
+    second: flairs_sheet_double_52
+  - first:
+      213: -1211945252688126112
+    second: flairs_sheet_double_53
+  - first:
+      213: -227903144012830215
+    second: flairs_sheet_double_54
+  - first:
+      213: 4885340154231064355
+    second: flairs_sheet_double_55
+  - first:
+      213: 3410768623813060233
+    second: flairs_sheet_double_56
+  - first:
+      213: -1483758978946690648
+    second: flairs_sheet_double_57
+  - first:
+      213: -1337124688576941050
+    second: flairs_sheet_double_58
+  - first:
+      213: 553399374577827881
+    second: flairs_sheet_double_59
+  - first:
+      213: -8450365193595857606
+    second: flairs_sheet_double_60
+  - first:
+      213: -7635022289506435463
+    second: flairs_sheet_double_61
+  - first:
+      213: 6088111140921330539
+    second: flairs_sheet_double_62
+  - first:
+      213: 4230512189511194464
+    second: flairs_sheet_double_63
+  - first:
+      213: 3044310171753344074
+    second: flairs_sheet_double_64
+  - first:
+      213: -5544272147725131656
+    second: flairs_sheet_double_65
+  - first:
+      213: 777796357029324769
+    second: flairs_sheet_double_66
+  - first:
+      213: -3426667245655233853
+    second: flairs_sheet_double_67
+  - first:
+      213: 1197188451485719288
+    second: flairs_sheet_double_68
+  - first:
+      213: 454464159309542530
+    second: flairs_sheet_double_69
+  - first:
+      213: -1153055371655319201
+    second: flairs_sheet_double_70
+  - first:
+      213: -5402286681261748634
+    second: flairs_sheet_double_71
+  - first:
+      213: 8173252172189915387
+    second: flairs_sheet_double_72
+  - first:
+      213: -3806888267489185138
+    second: flairs_sheet_double_73
+  - first:
+      213: -448125338273296136
+    second: flairs_sheet_double_74
+  - first:
+      213: -3949530323209490610
+    second: flairs_sheet_double_75
+  - first:
+      213: 1926426423266437963
+    second: flairs_sheet_double_76
+  - first:
+      213: 3945680642033660013
+    second: flairs_sheet_double_77
+  - first:
+      213: 3475517077236566444
+    second: flairs_sheet_double_78
+  - first:
+      213: -3139755551271313644
+    second: flairs_sheet_double_79
+  - first:
+      213: 116948937002642674
+    second: flairs_sheet_double_80
+  - first:
+      213: -1764544916334274994
+    second: flairs_sheet_double_81
+  - first:
+      213: -4466442842254905577
+    second: flairs_sheet_double_82
+  - first:
+      213: 3992369271792958522
+    second: flairs_sheet_double_83
+  - first:
+      213: -2142816532002542353
+    second: flairs_sheet_double_84
+  - first:
+      213: 8929940157257652633
+    second: flairs_sheet_double_85
+  - first:
+      213: -1031722000990935328
+    second: flairs_sheet_double_86
+  - first:
+      213: 649803989014858603
+    second: flairs_sheet_double_87
+  - first:
+      213: -3428597062535218009
+    second: flairs_sheet_double_88
+  - first:
+      213: 7315997645490267373
+    second: flairs_sheet_double_89
+  - first:
+      213: -6647937177639035753
+    second: flairs_sheet_double_90
+  - first:
+      213: 4577095292297978823
+    second: flairs_sheet_double_91
+  - first:
+      213: 8587430090285010388
+    second: flairs_sheet_double_92
+  - first:
+      213: 5225207245898575981
+    second: flairs_sheet_double_93
+  - first:
+      213: -6609087508375678130
+    second: flairs_sheet_double_94
+  - first:
+      213: 1661091622977441000
+    second: flairs_sheet_double_95
+  - first:
+      213: -5801352548812321072
+    second: flairs_sheet_double_96
+  - first:
+      213: -4263183240813916599
+    second: flairs_sheet_double_97
+  - first:
+      213: 1166033096307852535
+    second: flairs_sheet_double_98
+  - first:
+      213: 802116950688802948
+    second: flairs_sheet_double_99
+  - first:
+      213: -6444196485440000878
+    second: flairs_sheet_double_100
+  - first:
+      213: -245336340981068703
+    second: flairs_sheet_double_101
+  - first:
+      213: 1229555386361027473
+    second: flairs_sheet_double_102
+  - first:
+      213: -1869127888576366592
+    second: flairs_sheet_double_103
+  - first:
+      213: -8784762406112804503
+    second: flairs_sheet_double_104
+  - first:
+      213: -3485205452645344191
+    second: flairs_sheet_double_105
+  - first:
+      213: -353557140483510530
+    second: flairs_sheet_double_106
+  - first:
+      213: -6069748454966501387
+    second: flairs_sheet_double_107
+  - first:
+      213: -5794336488189157462
+    second: flairs_sheet_double_108
+  - first:
+      213: 1631051149276680274
+    second: flairs_sheet_double_109
+  - first:
+      213: -1103029452878671015
+    second: flairs_sheet_double_110
+  - first:
+      213: -4470509265889711232
+    second: flairs_sheet_double_111
+  - first:
+      213: 1701376112920463403
+    second: flairs_sheet_double_112
+  - first:
+      213: 7253907459407679695
+    second: flairs_sheet_double_113
+  - first:
+      213: -3798625019374630946
+    second: flairs_sheet_double_114
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flairs_sheet_double_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1161
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f455bf8137aed30800000000000000
+      internalID: 4461504931996979062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1171
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e955079d810a7c6e0800000000000000
+      internalID: -1817307896033028706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_2
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1165
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1854101fcb102bbc0800000000000000
+      internalID: -3768948027146812031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_3
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1151
+        width: 897
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3245ef43ef71396d0800000000000000
+      internalID: -2985015747438291933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_4
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1039
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d861c6ce3d1e46e10800000000000000
+      internalID: 2190123619129759373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_5
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1039
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c748820b4c93971f0800000000000000
+      internalID: -1046741921455111044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1067
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fecd42523ddd7140800000000000000
+      internalID: 4719171192753082102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_7
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1039
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc90441a93f131f50800000000000000
+      internalID: 6850853790539844044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_8
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1033
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80a8688050c36060800000000000000
+      internalID: 6945606502453911691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_9
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1039
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3300b41242689fa0800000000000000
+      internalID: -5793772884657700033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_10
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1033
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35964a477c2d31c0800000000000000
+      internalID: -4522409559951239873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_11
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1039
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43a919ed34890d40800000000000000
+      internalID: 5551113417149489998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_12
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1033
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e894ec07227ffe60800000000000000
+      internalID: 7998236975278889186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_13
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1039
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b297f67031806730800000000000000
+      internalID: 3990331315004609207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_14
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 911
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61e09384c6ebcd50800000000000000
+      internalID: 6758749397494849903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_15
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 911
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4544be43c2473220800000000000000
+      internalID: 2465512727615128906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_16
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 911
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a79788e9d75d10b0800000000000000
+      internalID: -5756348155288905815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_17
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 911
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2166cc34c1953c0800000000000000
+      internalID: -4370430885868727577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_18
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 911
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a837d7007a3c7d20800000000000000
+      internalID: 3277558881661171872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_19
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 911
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76b0850a08cbd640800000000000000
+      internalID: 5105894547922138748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_20
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 911
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b344ab76b765a1b80800000000000000
+      internalID: -8423325065021864901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_21
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 911
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436d07a806cc03f20800000000000000
+      internalID: 3400442433676301876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_22
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 911
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83578d5aa1476e10800000000000000
+      internalID: 2190791943708431243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_23
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 911
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde001974f3e7c460800000000000000
+      internalID: 7262023563300835036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 777
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e738201c25bc740800000000000000
+      internalID: 5173319585889484376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_25
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 777
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5259704f46d1e41e0800000000000000
+      internalID: -2211798047564262107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_26
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 783
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab80f1c7003e477e0800000000000000
+      internalID: -1768539162427848518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_27
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 783
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f6a1d8617241f70800000000000000
+      internalID: 9156986920161144660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_28
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 783
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99525a433598a8b10800000000000000
+      internalID: 1984549576268653977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_29
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 783
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afa088d8e4606d40800000000000000
+      internalID: 5575567289912176548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_30
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 783
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9a92e7dad8ac040800000000000000
+      internalID: 4668699740008458734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_31
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 783
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22586e859e1f806c0800000000000000
+      internalID: -4176822669864958686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_32
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 783
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbc3473e9a192e40800000000000000
+      internalID: 5632062075837860853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_33
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 783
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c97c4b7bcb7a45b0800000000000000
+      internalID: -5383354290690819643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_34
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952f726cb70f43b40800000000000000
+      internalID: 5419220666029699673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_35
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43e72e01cefe1220800000000000000
+      internalID: 2458682551710507854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_36
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb431fadb2493690800000000000000
+      internalID: -7621987511894324300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_37
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 728
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cb05c2a04d85d80800000000000000
+      internalID: -8261620376252924845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_38
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 734
+        width: 51
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce88c745b61e13170800000000000000
+      internalID: 8156548251239876844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_39
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5903b62430feeb8d0800000000000000
+      internalID: -2828560718663831403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_40
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6913b8daa24c4f0800000000000000
+      internalID: -809475108166855002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_41
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 649
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea895859e957a44d0800000000000000
+      internalID: -3149575665418397522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_42
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57ba82baf72b8870800000000000000
+      internalID: 8686080264004876125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_43
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 679
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0714b1318a4d5d510800000000000000
+      internalID: 1573397463176003952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_44
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 679
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482befe2fbeac96e0800000000000000
+      internalID: -1829395212468833660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_45
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 687
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b498b37b9deefa0800000000000000
+      internalID: -5769434691613930652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_46
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 655
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329513696d164f770800000000000000
+      internalID: 8643641159101536547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_47
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 655
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df14892d329d6c3a0800000000000000
+      internalID: -6645385452258311683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_48
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491466829f2350860800000000000000
+      internalID: 7495453200534094228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_49
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c511fb16f59aa20800000000000000
+      internalID: 3074093094079126548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_50
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561e0b4b8397f9de0800000000000000
+      internalID: -1324206480967016091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_51
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c70956691ffe180800000000000000
+      internalID: -9083776295131644830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_52
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fad91b3480a2c840800000000000000
+      internalID: 5242929406000356086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_53
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f9d4eb63e4e2fe0800000000000000
+      internalID: -1211945252688126112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_54
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9abe94c4356dcf0800000000000000
+      internalID: -227903144012830215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_55
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32705e39cf63cc340800000000000000
+      internalID: 4885340154231064355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_56
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986ec690efb755f20800000000000000
+      internalID: 3410768623813060233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_57
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a11697e111a86be0800000000000000
+      internalID: -1483758978946690648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_58
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 479
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60477fc1e24917de0800000000000000
+      internalID: -1337124688576941050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_59
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 479
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92082a49cc11ea700800000000000000
+      internalID: 553399374577827881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_60
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35d46dd0a54aba80800000000000000
+      internalID: -8450365193595857606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_61
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e77c50ea3fa0690800000000000000
+      internalID: -7635022289506435463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_62
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bc6b393d05d7450800000000000000
+      internalID: 6088111140921330539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_63
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06756c11c6cc5ba30800000000000000
+      internalID: 4230512189511194464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_64
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c6775c8ff8f3a20800000000000000
+      internalID: 3044310171753344074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 425
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87060c04bd9ce03b0800000000000000
+      internalID: -5544272147725131656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_66
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 425
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e763507aa94bca00800000000000000
+      internalID: 777796357029324769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_67
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 425
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cae04b9b480270d0800000000000000
+      internalID: -3426667245655233853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_68
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 383
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa910cbd844d9010800000000000000
+      internalID: 1197188451485719288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_69
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 351
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284bacabeb49e4600800000000000000
+      internalID: 454464159309542530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_70
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 257
+        width: 80
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51f026af368fffe0800000000000000
+      internalID: -1153055371655319201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_71
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 271
+        width: 112
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ec19cc2e83705b0800000000000000
+      internalID: -5402286681261748634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_72
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 299
+        width: 98
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8d11ffb893d6170800000000000000
+      internalID: 8173252172189915387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_73
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 299
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8274bc5a473b2bc0800000000000000
+      internalID: -3806888267489185138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_74
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 297
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f05e5d0160f7c9f0800000000000000
+      internalID: -448125338273296136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_75
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 297
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fe677b8137039c0800000000000000
+      internalID: -3949530323209490610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_76
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 341
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4be8b410aa0cba10800000000000000
+      internalID: 1926426423266437963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_77
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 341
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d603d8983afd1c630800000000000000
+      internalID: 3945680642033660013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_78
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 341
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca94d7f1e548b3030800000000000000
+      internalID: 3475517077236566444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_79
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 341
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f99e416f85d64d0800000000000000
+      internalID: -3139755551271313644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_80
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 257
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fce6e6407c7f9100800000000000000
+      internalID: 116948937002642674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_81
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 255
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e469caf5fb31387e0800000000000000
+      internalID: -1764544916334274994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_82
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 261
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f6fc136e10402c0800000000000000
+      internalID: -4466442842254905577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_83
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 261
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c776143beb76730800000000000000
+      internalID: 3992369271792958522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_84
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 261
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec672f97bf2342e0800000000000000
+      internalID: -2142816532002542353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_85
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 261
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99996da92458deb70800000000000000
+      internalID: 8929940157257652633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_86
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 255
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6eaff6e469ea1f0800000000000000
+      internalID: -1031722000990935328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_87
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 203
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bccd20941940900800000000000000
+      internalID: 649803989014858603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_88
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 203
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acf3a9132d2b60d0800000000000000
+      internalID: -3428597062535218009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_89
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 202
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4aa05c815a78560800000000000000
+      internalID: 7315997645490267373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_90
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 161
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c56b5fb58cdb3a0800000000000000
+      internalID: -6647937177639035753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_91
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 129
+        width: 80
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3a888faeb158f30800000000000000
+      internalID: 4577095292297978823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_92
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 143
+        width: 112
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd40f04b2eac2770800000000000000
+      internalID: 8587430090285010388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_93
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 161
+        width: 126
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60f4994e4aa38840800000000000000
+      internalID: 5225207245898575981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_94
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 191
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43dbc57dedc744a0800000000000000
+      internalID: -6609087508375678130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_95
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 161
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec82feb7026d0710800000000000000
+      internalID: 1661091622977441000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_96
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 143
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de0c3ff7947d7fa0800000000000000
+      internalID: -5801352548812321072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_97
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 33
+        width: 97
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e43e60e6126d4c0800000000000000
+      internalID: -4263183240813916599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_98
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 33
+        width: 97
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f447c55ce49e2010800000000000000
+      internalID: 1166033096307852535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_99
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 33
+        width: 97
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488202aed11b12b00800000000000000
+      internalID: 802116950688802948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_100
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 90
+        width: 42
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c2786707d9196a0800000000000000
+      internalID: -6444196485440000878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_101
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 83
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c4451d5e3689cf0800000000000000
+      internalID: -245336340981068703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_102
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 83
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b97b30c12401110800000000000000
+      internalID: 1229555386361027473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_103
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 33
+        width: 96
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00831a1a6168f06e0800000000000000
+      internalID: -1869127888576366592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_104
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 33
+        width: 98
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961c073a221461680800000000000000
+      internalID: -8784762406112804503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_105
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 21
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14cd1d13b1012afc0800000000000000
+      internalID: -3485205452645344191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_106
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 21
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe6da967a9e71bf0800000000000000
+      internalID: -353557140483510530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_107
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 21
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffdeb960fbe3cba0800000000000000
+      internalID: -6069748454966501387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_108
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 19
+        width: 98
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf9668e9a1669fa0800000000000000
+      internalID: -5794336488189157462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_109
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 19
+        width: 98
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250112be068a2a610800000000000000
+      internalID: 1631051149276680274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_110
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 21
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9539f548e8041b0f0800000000000000
+      internalID: -1103029452878671015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_111
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 34
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b2d89228f85f1c0800000000000000
+      internalID: -4470509265889711232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_112
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 15
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2885f77f808c9710800000000000000
+      internalID: 1701376112920463403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_113
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 15
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc01d87c66e0ba460800000000000000
+      internalID: 7253907459407679695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flairs_sheet_double_114
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 15
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7834dbba2984bc0800000000000000
+      internalID: -3798625019374630946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
