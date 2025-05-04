@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      flair_small_disabled_outline_0: -5334116506141971457
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

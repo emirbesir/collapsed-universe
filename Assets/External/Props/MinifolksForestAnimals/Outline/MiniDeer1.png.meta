@@ -659,7 +659,29 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MiniDeer1_0: -3463902250377425916
+      MiniDeer1_1: 6945141522646087805
+      MiniDeer1_10: 1059197197921569000
+      MiniDeer1_11: -1376507791744665644
+      MiniDeer1_12: 3547178911720554033
+      MiniDeer1_13: -7724885238698079540
+      MiniDeer1_14: 1564265281369162203
+      MiniDeer1_15: -4238958309895966106
+      MiniDeer1_16: 4672268310045380359
+      MiniDeer1_17: -1003507896684145833
+      MiniDeer1_18: -8302554757647781932
+      MiniDeer1_19: -7556170575710297399
+      MiniDeer1_2: 9058712317480594231
+      MiniDeer1_20: 7278299733770756795
+      MiniDeer1_21: -9082924282010878606
+      MiniDeer1_3: 6537292147527275224
+      MiniDeer1_4: -1417057472632740751
+      MiniDeer1_5: -6434909018223814909
+      MiniDeer1_6: -1243530608612869613
+      MiniDeer1_7: -5491823642182356480
+      MiniDeer1_8: 2893460138393576967
+      MiniDeer1_9: 5237292693241986197
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

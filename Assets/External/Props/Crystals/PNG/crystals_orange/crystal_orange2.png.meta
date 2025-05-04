@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      crystal_orange2_0: 1662488081430786457
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

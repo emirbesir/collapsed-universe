@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      keyboard_tab_icon_alternative_outline_0: 4806393180160698361
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -409,7 +409,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      panel-border-004_0: -5683902893889321912
+      panel-border-004_1: -5134189940923042518
+      panel-border-004_10: -8595556096097237369
+      panel-border-004_11: -8500801205346802991
+      panel-border-004_2: -84587838966995479
+      panel-border-004_3: -1632328516895942811
+      panel-border-004_4: -9029064720173225661
+      panel-border-004_5: 6437592973813391848
+      panel-border-004_6: 3971884504754981158
+      panel-border-004_7: 6044901723259873431
+      panel-border-004_8: 7042582620617641154
+      panel-border-004_9: 7488685132424254834
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

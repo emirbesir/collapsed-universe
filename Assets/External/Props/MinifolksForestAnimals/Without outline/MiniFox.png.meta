@@ -709,7 +709,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MiniFox_0: 7623300613404548461
+      MiniFox_1: -8789393864153554043
+      MiniFox_10: -6163836534053454643
+      MiniFox_11: 6085903496312592877
+      MiniFox_12: -7614972397356156423
+      MiniFox_13: 401904078112628206
+      MiniFox_14: 2039237447929110003
+      MiniFox_15: 8586038524228481210
+      MiniFox_16: 187318973173659711
+      MiniFox_17: 3127436183925744887
+      MiniFox_18: 3548961012202574203
+      MiniFox_19: -203706587689249598
+      MiniFox_2: -7300987024422333479
+      MiniFox_20: 8706754219153841207
+      MiniFox_21: -5228021086106961641
+      MiniFox_22: 5024691380427325975
+      MiniFox_23: 38208471515682116
+      MiniFox_3: 7560568738027897082
+      MiniFox_4: 1673437344201228141
+      MiniFox_5: 7323644670389585681
+      MiniFox_6: -8114439344399679727
+      MiniFox_7: 1293509883166666206
+      MiniFox_8: -3998831353902109160
+      MiniFox_9: -1100748744157176202
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

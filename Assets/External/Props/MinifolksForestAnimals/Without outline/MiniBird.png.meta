@@ -334,7 +334,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MiniBird_0: 2566240587245047608
+      MiniBird_1: -2844561567318271577
+      MiniBird_2: 4381027135419144561
+      MiniBird_3: -6603403757706897071
+      MiniBird_4: 3851865250266201902
+      MiniBird_5: 5754462031669506860
+      MiniBird_6: -5647514114072100302
+      MiniBird_7: -3524232193297505177
+      MiniBird_8: 4312851848075564862
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

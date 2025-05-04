@@ -659,7 +659,29 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MiniBoar_0: -7672354863234207010
+      MiniBoar_1: 3481569618965902905
+      MiniBoar_10: 8202800113622734110
+      MiniBoar_11: 6537579238732839967
+      MiniBoar_12: -5944359786020868542
+      MiniBoar_13: -3610267396622823303
+      MiniBoar_14: -5400500386182608394
+      MiniBoar_15: -8044176204105586288
+      MiniBoar_16: -2868795883446100871
+      MiniBoar_17: 3726124962400913850
+      MiniBoar_18: 727771401640785436
+      MiniBoar_19: -4101316412423572533
+      MiniBoar_2: -5742449975016222909
+      MiniBoar_20: 286548503628062830
+      MiniBoar_21: 7131773927902854608
+      MiniBoar_3: -955450440787631540
+      MiniBoar_4: -4299158127702293525
+      MiniBoar_5: -7449739053691664506
+      MiniBoar_6: 8342606506207337448
+      MiniBoar_7: -8468128079830325608
+      MiniBoar_8: 1759345105594861501
+      MiniBoar_9: 6543427238879986710
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

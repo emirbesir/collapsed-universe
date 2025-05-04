@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      flair_circle_red_8_0: 422670703185687326
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

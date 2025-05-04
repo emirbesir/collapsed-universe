@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Preview Flairs & Overlays_0: -7779318894205173834
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

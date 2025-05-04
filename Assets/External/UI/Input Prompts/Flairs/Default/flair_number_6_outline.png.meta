@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      flair_number_6_outline_0: -3510831920674720178
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

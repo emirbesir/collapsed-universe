@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      panel_glass_notch_tr_0: 5742731493335266359
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

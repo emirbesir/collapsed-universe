@@ -234,7 +234,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mouse_scroll_vertical_0: 4157215641068919267
+      mouse_scroll_vertical_1: 4020318081146111525
+      mouse_scroll_vertical_2: 6843013834805463554
+      mouse_scroll_vertical_3: -4663515884436517561
+      mouse_scroll_vertical_4: 3342665594666460040
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

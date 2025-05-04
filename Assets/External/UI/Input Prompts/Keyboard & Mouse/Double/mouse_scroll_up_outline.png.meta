@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mouse_scroll_up_outline_0: -8905780646183678511
+      mouse_scroll_up_outline_1: -8392318064600665561
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

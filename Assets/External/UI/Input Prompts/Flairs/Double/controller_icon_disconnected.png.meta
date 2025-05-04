@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      controller_icon_disconnected_0: -1748293520373957795
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

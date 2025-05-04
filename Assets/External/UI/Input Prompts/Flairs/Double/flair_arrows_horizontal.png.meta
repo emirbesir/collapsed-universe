@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      flair_arrows_horizontal_0: -5605575662948485729
+      flair_arrows_horizontal_1: -597191195322733717
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

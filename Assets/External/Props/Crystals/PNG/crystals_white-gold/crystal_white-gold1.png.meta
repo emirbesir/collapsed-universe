@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      crystal_white-gold1_0: -5553548636791380804
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      panel_rectangle_screws_0: 5534657133809011589
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
