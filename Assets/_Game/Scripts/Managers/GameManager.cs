@@ -15,7 +15,6 @@ public class GameManager : MonoBehaviour
         if (Instance == null)
         {
             Instance = this;
-            DontDestroyOnLoad(gameObject);
         }
         else
         {
@@ -23,10 +22,18 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    
+    private void Start()
+    {
+        // Initialize game state
+        _isPaused = false;
+        Time.timeScale = 1f; // Ensure the game is running at normal speed
+    }
+
+
     public void EndGame()
     {
         UIManager.Instance.ShowGameOver();
+        Time.timeScale = 0f; // Stop the game
     }
 
     private void Update()

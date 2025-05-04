@@ -239,4 +239,11 @@ public class PlayerController : MonoBehaviour
         }
         return false;
     }
+
+    public void StopMoving()
+    {
+        _movementInputX = 0f; // Stop movement
+        _rb.linearVelocity = Vector2.zero; // Stop all velocity
+        _animator.SetBool("IsWalking", false); // Stop walking animation
+    }
 }
