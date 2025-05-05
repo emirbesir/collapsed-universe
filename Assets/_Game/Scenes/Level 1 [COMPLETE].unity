@@ -295,8 +295,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   shatterPanel: {fileID: 470396466}
-  displayTime: 0.5
-  fadeTime: 0.5
+  displayTime: 0.2
+  fadeTime: 0.2
   playOnce: 1
   shatterAlpha: 0.5
 --- !u!1 &351709599
@@ -1222,7 +1222,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 251983476381012137, guid: 83950819eec4e294d8cbda8e98a64c7f, type: 3}
       propertyPath: blendDuration
-      value: 0.5
+      value: 0.2
       objectReference: {fileID: 0}
     - target: {fileID: 251983476381012137, guid: 83950819eec4e294d8cbda8e98a64c7f, type: 3}
       propertyPath: cutsceneCamera
@@ -1230,7 +1230,7 @@ PrefabInstance:
       objectReference: {fileID: 610758090}
     - target: {fileID: 251983476381012137, guid: 83950819eec4e294d8cbda8e98a64c7f, type: 3}
       propertyPath: cutsceneDuration
-      value: 0.5
+      value: 0.2
       objectReference: {fileID: 0}
     - target: {fileID: 3841932780353132180, guid: 83950819eec4e294d8cbda8e98a64c7f, type: 3}
       propertyPath: m_LocalPosition.x
@@ -32654,8 +32654,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   shatterPanel: {fileID: 470396466}
-  displayTime: 0.5
-  fadeTime: 0.5
+  displayTime: 0.2
+  fadeTime: 0.2
   playOnce: 1
   shatterAlpha: 0.8
 --- !u!1001 &1372772517076451229
@@ -32667,6 +32667,14 @@ PrefabInstance:
     m_TransformParent: {fileID: 2065366399}
     m_Modifications:
     - target: {fileID: 1107371266695214612, guid: 6a39170ff358c314fb81fb785e318084, type: 3}
+      propertyPath: fadeTime
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1107371266695214612, guid: 6a39170ff358c314fb81fb785e318084, type: 3}
+      propertyPath: displayTime
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1107371266695214612, guid: 6a39170ff358c314fb81fb785e318084, type: 3}
       propertyPath: shatterPanel
       value: 
       objectReference: {fileID: 470396466}
@@ -32675,9 +32683,17 @@ PrefabInstance:
       value: Shatter Zone 1
       objectReference: {fileID: 0}
     - target: {fileID: 8131143155551509599, guid: 6a39170ff358c314fb81fb785e318084, type: 3}
+      propertyPath: blendDuration
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8131143155551509599, guid: 6a39170ff358c314fb81fb785e318084, type: 3}
       propertyPath: cutsceneCamera
       value: 
       objectReference: {fileID: 1993509994}
+    - target: {fileID: 8131143155551509599, guid: 6a39170ff358c314fb81fb785e318084, type: 3}
+      propertyPath: cutsceneDuration
+      value: 0.2
+      objectReference: {fileID: 0}
     - target: {fileID: 8430452212821982455, guid: 6a39170ff358c314fb81fb785e318084, type: 3}
       propertyPath: monologueAudioClip
       value: 
@@ -32737,7 +32753,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 251983476381012137, guid: 83950819eec4e294d8cbda8e98a64c7f, type: 3}
       propertyPath: blendDuration
-      value: 0.5
+      value: 0.2
       objectReference: {fileID: 0}
     - target: {fileID: 251983476381012137, guid: 83950819eec4e294d8cbda8e98a64c7f, type: 3}
       propertyPath: cutsceneCamera
@@ -32745,7 +32761,7 @@ PrefabInstance:
       objectReference: {fileID: 1011787459}
     - target: {fileID: 251983476381012137, guid: 83950819eec4e294d8cbda8e98a64c7f, type: 3}
       propertyPath: cutsceneDuration
-      value: 0.5
+      value: 0.2
       objectReference: {fileID: 0}
     - target: {fileID: 3841932780353132180, guid: 83950819eec4e294d8cbda8e98a64c7f, type: 3}
       propertyPath: m_LocalPosition.x
