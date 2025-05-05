@@ -48,7 +48,7 @@
 - [Dark Cyberpunk Orchestral Music (Freesound.org)](https://freesound.org/people/Bertsz/sounds/524309/)
   - Cyberpunk 1. Level müziği 
 - [New York Cyberpunk (Freesound.org)](https://freesound.org/people/szegvari/sounds/611305/)
-  - Cyberpunk 2. Level müziği
+  - Cyberpunk 2. Level müziği (Dosya 100 MB üzeri olduğu için gitHub'da yüklü değil)
 - [Steampunk Chill Ambient (Freesound.org)](https://freesound.org/people/szegvari/sounds/580632/)
   - Steampunk levelları müziği 
 - [Dark Ambient Music (Freesound.org)](https://freesound.org/people/TheoJT/sounds/511434/)
