@@ -25,7 +25,7 @@
 - [War Background (Craftpix.net)](https://craftpix.net/freebies/free-war-pixel-art-2d-backgrounds/)
 
 ### Props
-- [32x32 2D Portal Asset Pack (Itch.io)](https://actuallykron.itch.io/32x32-2d-portal-asset-pack)
+- [Portals (Itch.io)](https://actuallykron.itch.io/32x32-2d-portal-asset-pack)
 - [Crystals (Craftpix.net)](https://craftpix.net/freebies/free-crystals-pixel-art-asset-pack/)
 - [Birds (Itch.io)](https://lyaseek.itch.io/miniffanimals)
 
