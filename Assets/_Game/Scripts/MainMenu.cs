@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class MainMenu : MonoBehaviour
 {
+    [SerializeField] private GameObject mainMenuPanel;
     public GameObject settingsPanel;
     public Slider volumeSlider;
     public TMP_Dropdown resolutionDropdown;
@@ -66,11 +67,13 @@ public class MainMenu : MonoBehaviour
     public void OpenSettings()
     {
         settingsPanel.SetActive(true);
+        mainMenuPanel.SetActive(false);
     }
 
     public void CloseSettings()
     {
         settingsPanel.SetActive(false);
+        mainMenuPanel.SetActive(true);
     }
 
     public void QuitGame()
