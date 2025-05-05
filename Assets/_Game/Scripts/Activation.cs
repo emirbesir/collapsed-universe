@@ -5,13 +5,10 @@ public class Activation : MonoBehaviour
 {
     [SerializeField] private GameObject _keyboardKeyPopup;
     [SerializeField] private GameObject _keyItemInInventory;
-    [SerializeField] private Fan fan;
+    [SerializeField] private GameObject _VFX;
+    [SerializeField] private GameObject fan;
     private bool isFanActive = false;
 
-    private void Awake()
-    {
-        fan = GetComponent<Fan>();
-    }
 
     private void Start()
     {
@@ -27,8 +24,12 @@ public class Activation : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.E) && _keyboardKeyPopup.activeSelf && _keyItemInInventory.activeSelf)
         {
             _keyItemInInventory.SetActive(false);
-            fan.enabled = true;
+            _VFX.SetActive(true);
+            fan.GetComponent<Fan>().enabled = true;
+            fan.GetComponent<BoxCollider2D>().enabled = true;
             isFanActive = true;
+            _keyboardKeyPopup.SetActive(false);
+            Destroy(gameObject);
         }
     }
 
