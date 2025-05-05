@@ -4,6 +4,7 @@ public class UIManager : MonoBehaviour
 {
     [SerializeField] private GameObject gameOverPanel;
     [SerializeField] private GameObject pausePanel;
+    [SerializeField] private GameObject settingsPanel;
 
     // Singleton instance
     public static UIManager Instance { get; private set; }
@@ -13,7 +14,6 @@ public class UIManager : MonoBehaviour
         if (Instance == null)
         {
             Instance = this;
-            DontDestroyOnLoad(gameObject);
         }
         else
         {
@@ -31,5 +31,9 @@ public class UIManager : MonoBehaviour
     public void TogglePausePanel(bool isPaused)
     {
         pausePanel.SetActive(isPaused);
+        if (!isPaused)
+        {
+            settingsPanel.SetActive(false);
+        }
     }
 }
