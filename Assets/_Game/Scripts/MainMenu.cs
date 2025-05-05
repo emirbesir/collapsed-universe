@@ -84,10 +84,20 @@ public class MainMenu : MonoBehaviour
         mainMenuPanel.SetActive(false);
     }
 
+
     public void CloseSettings()
     {
         settingsPanel.SetActive(false);
         mainMenuPanel.SetActive(true);
+    }
+    public void OpenMainMenu()
+    {
+        SceneManager.LoadScene(0);
+    }
+
+    public void RestartScene()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
     public void QuitGame()
