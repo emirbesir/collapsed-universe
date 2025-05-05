@@ -28342,11 +28342,12 @@ MonoBehaviour:
     Universe\n\n------------------------------------------\n\nGrup \xDCyeleri\n\nEmir
     Be\u015Fir\nFurkan Be\u015Firli\nBerke Bak\u0131rc\u0131\nR\xFCmeysa Sardohan\nArzu
     Ekinli\n\n------------------------------------------\n\nKullan\u0131lan Haz\u0131r
-    Assetler\n\nUI\nFantasy UI Borders (Kenney.nl)\nGUI Parts (Unity Asset Store)\n\nFontlar\nTagesschrift
-    (Google Fonts)\nOrbitron (Google Fonts)\nSixtyfour Convergence (Google Fonts)\n\nKarakterler\nGraffiti
+    Assetler\n\nUI\nInput Prompts (Kenney.nl)\nSci-Fi UI (Kenney.nl)\nFantasy UI
+    Borders (Kenney.nl)\nGUI Parts (Unity Asset Store)\n\nFontlar\nTagesschrift (Google
+    Fonts)\nOrbitron (Google Fonts)\nSixtyfour Convergence (Google Fonts)\n\nKarakterler\nGraffiti
     Artist Pack (Craftpix.net)\nSoldier Pack (Craftpix.net)\n\nArkaplanlar\nFuturistic
     Background (Craftpix.net)\nSteampunk Background (Craftpix.net)\nWar Background
-    (Craftpix.net)\n\nProplar\n32x32 2D Portal Asset Pack (Itch.io)\nCrystals (Craftpix.net)\nBirds
+    (Craftpix.net)\n\nProplar\nPortals (Itch.io)\nCrystals (Craftpix.net)\nBirds
     (Itch.io)\n\nM\xFCzikler\nEnglish Country Garden (YouTube)\nDark Cyberpunk Orchestral
     Music (Freesound.org)\nNew York Cyberpunk (Freesound.org)\nSteampunk Chill Ambient
     (Freesound.org)\nDark Ambient Music (Freesound.org)\nGeneric Futuristic Hero's
@@ -28377,7 +28378,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 64.15
+  m_fontSize: 61.85
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
