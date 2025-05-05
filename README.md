@@ -1,4 +1,4 @@
-# Collapsing Universe
+# Collapsed Universe
 
 ## Yapay Zeka ve Teknoloji Akademisi - Game Jam 2025 - Grup 26
 
