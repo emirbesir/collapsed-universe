@@ -155,6 +155,7 @@ MonoBehaviour:
   maxHealth: 3
   currentHealth: 0
   playerVisual: {fileID: 3432486873727554745}
+  hurtSound: {fileID: 8300000, guid: 14344026e10bccb4180bc77708789773, type: 3}
 --- !u!82 &5474146413387434124
 AudioSource:
   m_ObjectHideFlags: 0

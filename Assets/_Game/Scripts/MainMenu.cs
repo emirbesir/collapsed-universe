@@ -20,12 +20,15 @@ public class MainMenu : MonoBehaviour
     private bool isFullScreen = true;
     private float currentVolume = 1f;
 
-    Resolution[] resolutions;
+    private Resolution[] resolutions;
+    private List<Resolution> filteredResolutions;
 
     void Start()
     {
         // Çözünürlükleri listele
         resolutions = Screen.resolutions;
+        filteredResolutions = new List<Resolution>();
+
         resolutionDropdown.ClearOptions();
 
         int currentResolutionIndex = 0;
@@ -34,12 +37,28 @@ public class MainMenu : MonoBehaviour
         for (int i = 0; i < resolutions.Length; i++)
         {
             string option = resolutions[i].width + " x " + resolutions[i].height;
-            options.Add(option);
 
-            if (resolutions[i].width == Screen.currentResolution.width &&
-                resolutions[i].height == Screen.currentResolution.height)
+            bool isDuplicate = false;
+            foreach (Resolution existingRes in filteredResolutions)
             {
-                currentResolutionIndex = i;
+                if (existingRes.width == resolutions[i].width && existingRes.height == resolutions[i].height)
+                {
+                    isDuplicate = true;
+                    break;
+                }
+            }
+
+            if (!isDuplicate)
+            {
+                options.Add(option);
+                filteredResolutions.Add(resolutions[i]);
+
+                // Check if this is the current resolution
+                if (resolutions[i].width == Screen.currentResolution.width &&
+                    resolutions[i].height == Screen.currentResolution.height)
+                {
+                    currentResolutionIndex = filteredResolutions.Count - 1;
+                }
             }
         }
 
@@ -48,7 +67,6 @@ public class MainMenu : MonoBehaviour
         resolutionDropdown.RefreshShownValue();
 
         resolutionDropdown.onValueChanged.AddListener(SetResolution);
-
         volumeSlider.onValueChanged.AddListener(SetVolume);
     }
 

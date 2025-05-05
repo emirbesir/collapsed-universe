@@ -9,10 +9,17 @@ public class PlayerHealth : MonoBehaviour
 
     [Header("Visual Settings")]
     [SerializeField] private SpriteRenderer playerVisual;
-    
+    [Header("Audio Settings")]
+    [SerializeField] private AudioClip hurtSound;
+
+    private AudioSource AudioSource;
     private Color hurtColor = Color.red;
     private Color originalColor;
 
+    private void Awake()
+    {
+        AudioSource = GetComponent<AudioSource>();
+    }
     private void Start()
     {
         currentHealth = maxHealth;
@@ -40,6 +47,7 @@ public class PlayerHealth : MonoBehaviour
     private IEnumerator HurtColor()
     {
         playerVisual.color = hurtColor;
+        AudioSource.PlayOneShot(hurtSound);
         yield return new WaitForSeconds(0.5f);
         playerVisual.color = originalColor;
     }

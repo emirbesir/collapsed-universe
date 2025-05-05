@@ -12973,6 +12973,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 717233690385916843, guid: 05d243b67378a214db2b6e404360b3c6, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: a94af55400a5f6a4e80b22ce68341176, type: 3}
     - target: {fileID: 5475631353127059288, guid: 05d243b67378a214db2b6e404360b3c6, type: 3}
       propertyPath: m_Name
       value: CanvasBOLUM
@@ -58209,14 +58213,6 @@ PrefabInstance:
     - target: {fileID: 42510990551252942, guid: cca3a6d150d1c15489b333d71aa1c72f, type: 3}
       propertyPath: m_Name
       value: Player
-      objectReference: {fileID: 0}
-    - target: {fileID: 3432486873727554745, guid: cca3a6d150d1c15489b333d71aa1c72f, type: 3}
-      propertyPath: m_SortingLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3432486873727554745, guid: cca3a6d150d1c15489b333d71aa1c72f, type: 3}
-      propertyPath: m_SortingLayerID
-      value: -2043079929
       objectReference: {fileID: 0}
     - target: {fileID: 6590912050862026660, guid: cca3a6d150d1c15489b333d71aa1c72f, type: 3}
       propertyPath: m_LocalPosition.x
