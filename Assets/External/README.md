@@ -54,4 +54,6 @@
 - [Dark Ambient Music (Freesound.org)](https://freesound.org/people/TheoJT/sounds/511434/)
   - Harabe levelları müziği 
 - [Generic Futuristic Hero's Theme (Freesound.org)](https://freesound.org/people/marcriver29/sounds/645691/)
-  - Final müziği 
+  - Final müziği
+- [Du Hành (Freesound.org)](https://freesound.org/people/SieuAmThanh/sounds/427758/)
+  - Tanıtım videosunda kullanılan müzik
