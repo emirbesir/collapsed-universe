@@ -3,13 +3,22 @@ using UnityEngine.UI;
 using TMPro;
 using System.Collections.Generic;
 using UnityEngine.SceneManagement;
+using UnityEngine.Audio;
 
 public class MainMenu : MonoBehaviour
 {
+    [Header("Sound Settings")]
+    [SerializeField] private Slider volumeSlider;
+    [SerializeField] private TextMeshProUGUI volumeValue;
+    [SerializeField] private AudioMixer audioMixer;
+
+    [Header("Main Menu")]
     [SerializeField] private GameObject mainMenuPanel;
+
     public GameObject settingsPanel;
-    public Slider volumeSlider;
     public TMP_Dropdown resolutionDropdown;
+    private bool isFullScreen = true;
+    private float currentVolume = 1f;
 
     Resolution[] resolutions;
 
@@ -40,10 +49,6 @@ public class MainMenu : MonoBehaviour
 
         resolutionDropdown.onValueChanged.AddListener(SetResolution);
 
-        // Ses yükle
-        float savedVolume = PlayerPrefs.GetFloat("volume", 1f);
-        volumeSlider.value = savedVolume;
-        AudioListener.volume = savedVolume;
         volumeSlider.onValueChanged.AddListener(SetVolume);
     }
 
@@ -55,8 +60,17 @@ public class MainMenu : MonoBehaviour
 
     public void SetVolume(float volume)
     {
-        AudioListener.volume = volume;
-        PlayerPrefs.SetFloat("volume", volume);
+        currentVolume = volume;
+        volumeValue.text = (volume * 100).ToString("0") + "%";
+
+        // Convert to logarithmic scale for audio mixer
+        audioMixer.SetFloat("MasterVolume", Mathf.Log10(volume) * 20);
+    }
+
+    public void SetFullscreen(bool isFullscreen)
+    {
+        isFullScreen = !isFullScreen;
+        Screen.fullScreen = isFullScreen;
     }
 
     public void StartGame()

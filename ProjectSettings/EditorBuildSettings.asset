@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_Game/Scenes/MainMenu Furkan.unity
+    path: Assets/_Game/Scenes/MainMenu.unity
     guid: 5883d5a55a73ada4a9ee94a34fb8610a
   - enabled: 1
     path: Assets/_Game/Scenes/Level 1 [COMPLETE].unity
