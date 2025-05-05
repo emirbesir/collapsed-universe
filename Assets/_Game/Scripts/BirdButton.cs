@@ -7,11 +7,15 @@ public class BirdButton : MonoBehaviour
     [SerializeField] private string monologueText;
     [SerializeField] private bool playOnce = true;
     [SerializeField] private bool isCorrectOption = false;
+    [SerializeField] private AudioClip monologueAudioClip;
+    [SerializeField] private AudioSource playerAudioSource;
 
     private bool hasPlayed = false;
 
     public void BirdButtonClick()
     {
+        MonologueManager.Instance.ShowMonologue(monologueText);
+        playerAudioSource.PlayOneShot(monologueAudioClip);
         if (isCorrectOption)
         {
             StartCoroutine(CorrectOption());
@@ -21,7 +25,6 @@ public class BirdButton : MonoBehaviour
             if (playOnce && hasPlayed)
                 return;
 
-            MonologueManager.Instance.ShowMonologue(monologueText);
             hasPlayed = true;
             gameObject.SetActive(false);
         }
@@ -29,11 +32,7 @@ public class BirdButton : MonoBehaviour
 
     private IEnumerator CorrectOption()
     {
-        MonologueManager.Instance.ShowMonologue(monologueText);
-        GameObject questionPanel = GameObject.FindGameObjectWithTag("QuestionPanel");
-        questionPanel.SetActive(false);
-        yield return new WaitForSeconds(3f);
-
+        yield return new WaitForSeconds(5f);
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         yield return null;
     }

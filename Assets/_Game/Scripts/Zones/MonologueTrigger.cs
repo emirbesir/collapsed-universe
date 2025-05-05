@@ -3,6 +3,7 @@ using UnityEngine;
 public class MonologueTrigger : MonoBehaviour
 {
     [SerializeField] private string monologueText;
+    [SerializeField] private AudioClip monologueAudioClip;
     [SerializeField] private bool playOnce = true;
 
     private bool hasPlayed = false;
@@ -15,6 +16,10 @@ public class MonologueTrigger : MonoBehaviour
                 return;
 
             MonologueManager.Instance.ShowMonologue(monologueText);
+            
+            AudioSource audioSource = collision.GetComponent<AudioSource>();
+            audioSource.PlayOneShot(monologueAudioClip);
+            
             hasPlayed = true;
         }
     }
