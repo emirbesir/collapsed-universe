@@ -12,4 +12,12 @@ Karakterimiz cyberpunk bir şehirde bir grafiti sanatçısı, bir gün polislerd
 - Rümeysa Sardohan
 - Arzu Ekinli
 
+### Ekran Görüntüleri
+
+![Screenshot 1](docs/ingame_screenshot_1.png)
+
+---
+
+![Screenshot 2](docs/ingame_screenshot_2.png)
+
 ### [Kullandığımız Assetler](./Assets/External/README.md)
