@@ -2,6 +2,9 @@
 
 ## Yapay Zeka ve Teknoloji Akademisi - Game Jam 2025 - Grup 26
 
+### Tema
+*Paralel Evrenler*
+
 ### Hikaye
 Karakterimiz cyberpunk bir şehirde bir grafiti sanatçısı, bir gün polislerden kaçarken henüz açılmış olan bir portalın enerjisi karakterimizin epey başını ağrıtır. Polisten kaçmayı zorlaştırır hatta karakterimiz önünü bile göremez olur ve bir boşluktan aşağı düşer. Düştüğü boşlukta portal vardır, bu portal onu evi olan evreninden çıkmaya zorlayacaktır. Devamında da karakterimiz evrenine geri dönmenin yollarını arayacaktır.
 
@@ -14,10 +17,18 @@ Karakterimiz cyberpunk bir şehirde bir grafiti sanatçısı, bir gün polislerd
 
 ### Ekran Görüntüleri
 
+Bazı oyun içi ekran görüntüleri
+
 ![Screenshot 1](docs/ingame_screenshot_1.png)
+
+*Cyberpunk evren*
 
 ---
 
 ![Screenshot 2](docs/ingame_screenshot_2.png)
+
+*Steampunk evren*
+
+---
 
 ### [Kullandığımız Assetler](./Assets/External/README.md)
