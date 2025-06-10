@@ -1,4 +1,14 @@
+<div align="center">
+
 # Collapsed Universe
+
+![Last Commit](https://img.shields.io/github/last-commit/emirbesir/collapsed-universe?style=flat&logo=git&logoColor=white&color=0080ff)
+![Top Language](https://img.shields.io/github/languages/top/emirbesir/collapsed-universe?style=flat&color=0080ff)
+![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?style=flat&logo=Unity&logoColor=black)
+
+</div>
+
+---
 
 ## Yapay Zeka ve Teknoloji Akademisi - Game Jam 2025 - Grup 26
 
