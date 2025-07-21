@@ -41,4 +41,4 @@ Bazı oyun içi ekran görüntüleri
 
 ---
 
-### [Kullandığımız Assetler](./Assets/External/README.md)
+### [Kullandığımız Assetler](Portal-Game/Assets/External/README.md)
