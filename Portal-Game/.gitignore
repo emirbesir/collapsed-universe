@@ -88,3 +88,11 @@ crashlytics-build.properties
 
 # JetBrains Rider 
 .idea/
+
+# Visual Studio Code
+.vscode/
+
+# WebGL build related
+/[Ww]ebGL [Bb]uilds/
+connectwebgl.zip
+webgl_sharing

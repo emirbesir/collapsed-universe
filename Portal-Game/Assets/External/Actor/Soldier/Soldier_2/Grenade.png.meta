@@ -252,6 +252,32 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1434,7 +1460,60 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Grenade_0: 7374725294872216382
+      Grenade_1: 3376900314206834495
+      Grenade_10: -5266794737079961141
+      Grenade_11: -5527698233109525648
+      Grenade_12: 5231933474339316117
+      Grenade_13: 4631291713719964355
+      Grenade_14: -4025670522880568576
+      Grenade_15: 5473448132262056957
+      Grenade_16: -7115472500593479228
+      Grenade_17: 7117326447813139509
+      Grenade_18: 756245215593961952
+      Grenade_19: 9096169975075641202
+      Grenade_2: -5704811672117845835
+      Grenade_20: 133413068518647891
+      Grenade_21: -3023168711063528263
+      Grenade_22: 3612418451634791019
+      Grenade_23: 1009281730154848352
+      Grenade_24: -7041984030022903451
+      Grenade_25: -8435306592050808528
+      Grenade_26: 1679365428538155585
+      Grenade_27: 7141092947197842828
+      Grenade_28: 879828244479943602
+      Grenade_29: -2302252762388485016
+      Grenade_3: -4374606788681764087
+      Grenade_30: -8180914232920905238
+      Grenade_31: -1450856371511106536
+      Grenade_32: 6387841470268784406
+      Grenade_33: 1708116789128889878
+      Grenade_34: -3295536782574443520
+      Grenade_35: -3747213346538765701
+      Grenade_36: -1923191335226108920
+      Grenade_37: -667491486918271850
+      Grenade_38: -8367797643543066426
+      Grenade_39: -5605597829351703355
+      Grenade_4: 4405584725071162727
+      Grenade_40: -6563621838768250651
+      Grenade_41: -5106351962041189454
+      Grenade_42: 5775286123512954308
+      Grenade_43: 7314834645415403450
+      Grenade_44: 4034352395618487010
+      Grenade_45: -1097952859130547537
+      Grenade_46: 5441123119587961396
+      Grenade_47: 1753366805165465224
+      Grenade_48: -3154811307714413569
+      Grenade_49: -812269962506016796
+      Grenade_5: -7678666374313002775
+      Grenade_50: 1714305268102690786
+      Grenade_51: 9020604792528720393
+      Grenade_52: -8053206537587683977
+      Grenade_6: -6252165173325568836
+      Grenade_7: -2916380699248684955
+      Grenade_8: -8233403809498355693
+      Grenade_9: 4804972167328877153
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
